@@ -18,8 +18,8 @@ Frontend:
 
 Backend:
  - .NET Core Web API.
- -  Entity Framework Core (if using .NET)
- -  SQL Server / Database for persisting data
+ -  Entity Framework Core
+ -  SQL Server for persisting data
  -  REST APIs
 
 
