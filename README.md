@@ -1,3 +1,6 @@
+Project 
+Title: Enquiry App Project
+
 Features :
 - Submit new customer enquiries with details like name, mobile, email, message, etc.
 - Select Enquiry Type and Status dynamically (from master data).
