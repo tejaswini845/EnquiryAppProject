@@ -1,5 +1,6 @@
 Project 
 Title: Enquiry App Project
+Stack Used: .Net and Angular
 
 Features :
 - Submit new customer enquiries with details like name, mobile, email, message, etc.
